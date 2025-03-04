@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+psutil
+requests
+# json
+# time
+# subprocess
+cryptography.fernet
+
+win32service
+win32event
+servicemanager
+socket
